@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rifatmondol3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifatmondol3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. rifat mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rifat mondol" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdrifatmondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rifat mondol" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11824506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11824506" height="30" width="40" /></a>
 <a href="https://fb.com/md. rifat mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. rifat mondol" height="30" width="40" /></a>
 <a href="https://instagram.com/r_i_f_a_tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_i_f_a_tt" height="30" width="40" /></a>
